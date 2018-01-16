@@ -1,4 +1,3 @@
-# 2P-Othello
 <h1>Othello (Reversi) in Python TkInter</h1>
 <h5>Fall 2016: I%C SCI 32: Programming with Libraries<h5>
 
@@ -9,4 +8,5 @@ Below is a video demo of main features.
 (Since TkInter operates on a relatively low level with the operating system, no online compiler allows for hosting TkInter applications. Hence the gif and not a live working demo.)
 
 <br>
-![demo gif](OthelloDemo.gif)
+
+![OthelloDemo](OthelloDemo.gif)
